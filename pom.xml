@@ -4,7 +4,7 @@
 
 	<groupId>com.devops.calculator.subtraction</groupId>
 	<artifactId>Subtraction</artifactId>
-	<version>${myVesrion}</version>
+	<version>${MyBuild}</version>
 	<packaging>jar</packaging>
 
 	<properties>
